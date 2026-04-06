@@ -11,10 +11,14 @@
             "id": "7767aa147866070a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Yawning Portal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Yawning Portal"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Yawning Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Yawning Portal"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/The Yawning Portal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Yawning Portal"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Locations/The Yawning Portal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Yawning Portal"
             }
           }
         ],
@@ -178,6 +185,7 @@
   },
   "active": "7767aa147866070a",
   "lastOpenFiles": [
+    "Players/Walter Dornier.md",
     "Recap/24. marts 2026.md",
     "Honorable knight statue.md",
     "Recap/Recap.md",
@@ -211,7 +219,6 @@
     "Recap/10. marts 2026.md",
     "Factions/Zhentarim.md",
     "NPCs/The Masked Lords.md",
-    "Players/Walter Dornier.md",
     "Players/Sszariel Thongolir.md",
     "Players/Normi Elderling.md",
     "Players/Felix Whitestone.md",
