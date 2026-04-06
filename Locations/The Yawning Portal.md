@@ -1,5 +1,5 @@
 [The Yawning Portal] er en af de mest berømte og berygtde kroer i [[Waterdeep]]. 
-Kroen befinder sig i Waterdeep's [[Castle Ward]].
+Kroen befinder sig i Waterdeep's [[Castle Ward]].123
 
 Udefra ser kroen ud ligesom mange andre kroer i byen - men så snart du træder ind, er det tydeligt hvad der gør kroen berømt - og hvorfor den har fået sit navn. 
 
