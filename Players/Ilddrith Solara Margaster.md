@@ -1,0 +1,31 @@
+# The Favored One
+
+In Waterdeep's North Ward, the Margaster family occupies a manor that most nobles quietly avoid. They are invited to every gala, seated at every important table, and spoken of in careful, measured tones. No one who values their standing would dare slight them. And no one who values their life would dare get too close.
+
+The family's power is an open secret — old money, older magic, and a matriarch who has somehow presided over countless generations without ever seeming to age. The Grandmother holds court in the manor's upper floors, receiving visitors by candlelight, her voice still sharp, her eyes still bright. Those who have seen her up close note that she doesn't quite look alive. They say nothing more than that. Neither does anyone else.
+
+Ilddrith grew up understanding very little of this. She didn't need to. She was the favorite.
+
+From the time she was very small, The Grandmother took a particular interest in her. Extra lessons, the finest tutors, front-row seats at every family occasion. When Ilddrith's sorcerous powers first manifested — a cascade of fire that reduced every curtain in her bedroom to ash on the morning of her eighth birthday — The Grandmother smiled in a way that the household staff would later describe, privately, as satisfied. Not proud, exactly. Satisfied. Ilddrith didn't notice the distinction. She was eight, and she had just set her bedroom on fire, and her grandmother was smiling at her. That was enough.
+
+Her butler, Walter, came into her service not long after. An elf of middle years — still young by his people's reckoning, old enough to be careful by anyone's — he was assigned to her personally, a gift from The Grandmother. He is unhurried, precise, and devoted in the particular way of someone who has chosen where to place their loyalty and sees no reason to revisit the decision. He has served Ilddrith through every phase of her childhood: her frustrations, her triumphs, her late nights practicing spells until her hands shook and the candles across the room guttered in sympathy. He brings her tea at exactly the right temperature. He appears before she calls for him. He has, over the years, become the most constant thing in her life — and one of the few things in it that has never flinched from her flames.
+
+Because fire has always been Ilddrith's native language. Not a tool she learned to use, but something that answered her before she knew how to ask. As a child she would sit with her hand over a candle flame and feel nothing but warmth, watching it curl around her fingers like it recognized her. As her powers grew, so did the fire's ambition — she could call it from nothing, shape it, hold it in her palm like a living thing. The Grandmother watched these lessons with particular attention, occasionally guiding Ilddrith's tutors toward exercises that pushed her further, hotter, brighter. She praised Ilddrith's fire magic above all else, and Ilddrith, who loved nothing more than her grandmother's approval, burned as brightly as she could.
+
+Growing up as The Grandmother's favorite was a gilded existence. Ilddrith wanted for nothing — not comfort, not attention, not magical instruction. The rest of the family watched her with a mixture of envy and relief. Envy, because the favor was visible and lavish. Relief, because The Grandmother's attention is a heavy thing to bear, and it was pointed elsewhere.
+
+What Ilddrith understood of The Grandmother was simple: she was ancient, powerful, and exacting. She loved the family in the distant, architectural way that someone loves a thing they built — not warmly, but with a fierce investment in its quality. She grew stronger when her family was strong, though Ilddrith would have had no words for what that meant, exactly. It was simply the texture of life in the Margaster household. Power flowed upward. Excellence was rewarded. You did not ask questions that hadn't been asked of you.
+
+She was happy. That is the honest truth of it, and it matters.
+
+The morning everything ended began like any other. Walter brought breakfast. Ilddrith had been practicing a new spell, coaxing a ribbon of flame into shapes that dissolved like smoke when she lost focus. The Grandmother summoned her to the upper floors, which was not unusual — she had been summoned there a hundred times, for lessons, for tea, for quiet conversations about the family's legacy and Ilddrith's place in it.
+
+She doesn't remember all of what happened next. She remembers The Grandmother looking at her differently than she ever had before — not with satisfaction, but with something that made the air feel wrong, and cold in a way that smothered the warmth Ilddrith always carried just beneath her skin. She remembers words that didn't make sense in the order they were spoken. She remembers reaching instinctively for her fire the way she always did when something frightened her, and finding it strangely dim, like a flame cupped too tightly. And she remembers Walter — who should not have been there, who must have followed her, who must have known or feared something she didn't — pulling her away from the room, down the servant's stairs, out a side door she had never used, into the grey morning of Waterdeep's streets, telling her in a very calm voice to keep walking and not look back.
+
+She didn't look back. She kept walking.
+
+By the time they were three streets away, her fire had returned — she could feel it again, restless and close, flickering at the edges of her composure. She focused on that. On the familiar heat of it. On the fact that it was still hers.
+
+She is somewhere in the city now, with whatever she had on her person, and Walter, and no understanding whatsoever of what just happened or why the woman who raised her with such deliberate care suddenly looked at her like she was something to be consumed. She doesn't know what a lich is. She doesn't know she was chosen years ago. She doesn't know why her grandmother's favorites, over the long decades, have had a way of quietly disappearing from family gatherings without explanation.
+
+She only knows that something in that room reached for her in a way that felt like an ending, and that Walter pulled her out before it could finish. And she knows that whatever comes next, her fire came back.

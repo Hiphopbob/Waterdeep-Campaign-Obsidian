@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "f09253b05b29234a",
+    "type": "split",
+    "children": [
+      {
+        "id": "528eb92461f4d046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7767aa147866070a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "803389174b1636f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "46af630096e5ac04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e1a6593ab4522a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3d40374f0ffe2e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b9d1c2254d7aeb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfaeca679107c7ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ff1e734bb585ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54769fe611bbbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "364af51e03465ece",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2343328ff1395dc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18b3593644e2f9cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a07760eb9c07ff1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7767aa147866070a",
+  "lastOpenFiles": [
+    "Recap/24. marts 2026.md",
+    "Honorable knight statue.md",
+    "Recap/Recap.md",
+    "Recap/22. marts 2026.md",
+    "Recap/17. marts 2026.md",
+    "Quests, Rumours and hooks/Quest - Find and save Floon Blagmar.md",
+    "Locations/The Yawning Portal.md",
+    "Other/Dyp-prøven.md",
+    "Images/2026-03-10.png",
+    "Images/Pasted image 20260315181011.png",
+    "Images/Pasted image 20260315215343.png",
+    "Images/Pasted image 20260321132317.png",
+    "Images/Pasted image 20260321132756.png",
+    "Images/Pasted image 20260321132858.png",
+    "Images/Pasted image 20260321133114.png",
+    "Images/Pasted image 20260321134352.png",
+    "Images/Pasted image 20260321134829.png",
+    "Images/Pasted image 20260321134853.png",
+    "NPCs/Yagra.md",
+    "General/Waterdeep Dragon Heist.md",
+    "NPCs/Floon Blagmar.md",
+    "Monsters",
+    "General/dato.md",
+    "NPCs/Volothamp Geddarm.md",
+    "Monsters/Stirges.md",
+    "Monsters/Trold.md",
+    "NPCs/Durnan.md",
+    "NPCs/Mirt.md",
+    "NPCs/Horse.md",
+    "NPCs/Mhaere.md",
+    "Recap/10. marts 2026.md",
+    "Factions/Zhentarim.md",
+    "NPCs/The Masked Lords.md",
+    "Players/Walter Dornier.md",
+    "Players/Sszariel Thongolir.md",
+    "Players/Normi Elderling.md",
+    "Players/Felix Whitestone.md",
+    "Quests, Rumours and hooks",
+    "Untitled.canvas",
+    "Recap",
+    "10",
+    "Other",
+    "Factions",
+    "General",
+    "NPCs",
+    "Images",
+    "Locations",
+    "Untitled 1.canvas"
+  ]
+}
