@@ -1,11 +1,9 @@
-################################################# Intro #################################################
-
+# Intro 
 Dette projekt indeholder noter fra DM Petersen's Waterdeep: Dragon Heist campaign.
 Planen er at holde projektet opdateret som en gruppe – og alle er dermed velkomne til at tilføje og redigere.
 
 Udfør både "Setup GitHub" og "Setup Obsidian". Dette skal kun gøres én gang. 
-
-############################################## 1st time setup ###########################################
+Gå derefter til "Vedligeholdelse af projekt" for at lære om push/pull.
 
 # Setup GitHub
 1. Download & install GitHub Desktop - https://desktop.github.com/download/
@@ -22,10 +20,10 @@ Udfør både "Setup GitHub" og "Setup Obsidian". Dette skal kun gøres én gang.
 3. Klik “Open folder as vault”
 4. Vælg den mappe du lige har cloned (step 7 i Setup GitHub)
 
-######################################### Vedligeholdelse af projekt ####################################
-# Hvordan det fungerer
+# Vedligeholdelse af projekt 
+Hvordan det fungerer:
 
-# Hent opdateringer
+Hent opdateringer (pull):
 
 
-# Push opdateringer
+Del opdateringer (push):
