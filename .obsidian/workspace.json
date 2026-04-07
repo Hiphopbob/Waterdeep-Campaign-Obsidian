@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Yawning Portal.md",
+                "file": "Recap/31. marts 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Yawning Portal"
+              "title": "31. marts 2026"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Yawning Portal.md",
+                "file": "Recap/31. marts 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Yawning Portal"
+              "title": "Backlinks for 31. marts 2026"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Yawning Portal.md",
+                "file": "Recap/31. marts 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Yawning Portal"
+              "title": "Outgoing links from 31. marts 2026"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Yawning Portal.md",
+                "file": "Recap/31. marts 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Yawning Portal"
+              "title": "Outline of 31. marts 2026"
             }
           }
         ],
@@ -183,45 +183,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "7767aa147866070a",
+  "active": "d6e1a6593ab4522a",
   "lastOpenFiles": [
-    " - Copy.gitattributes",
-    "Players/Walter Dornier.md",
+    "Monsters/Gazer.md",
+    "Recap/31. marts 2026.md",
+    "NPCs/Gamle Martin.md",
+    "NPCs/Horse.md",
+    "Other/Øjet.md",
+    "NPCs/Rottekongen.md",
+    "NPCs/Krentz.md",
     "Recap/24. marts 2026.md",
-    "Honorable knight statue.md",
+    "NPCs/Ranaer Neverember.md",
     "Recap/Recap.md",
+    "Other/Honorable knight statue.md",
+    "README.md",
+    "Locations/The Yawning Portal.md",
+    "Locations/Castle Ward.md",
+    "General/dato.md",
+    "Images/Pasted image 20260321133114.png",
+    "Images/Pasted image 20260321134939.png",
+    "Images/Pasted image 20260321134829.png",
+    "Images/Pasted image 20260315215343.png",
+    "Locations/North Ward.md",
+    "Players/Walter Dornier.md",
+    "Players/Sszariel Thongolir.md",
+    "Players/Normi Elderling.md",
+    "Players/Ilddrith Solara Margaster.md",
+    "Players/Felix Whitestone.md",
+    " - Copy.gitattributes",
     "Recap/22. marts 2026.md",
     "Recap/17. marts 2026.md",
     "Quests, Rumours and hooks/Quest - Find and save Floon Blagmar.md",
-    "Locations/The Yawning Portal.md",
     "Other/Dyp-prøven.md",
     "Images/2026-03-10.png",
     "Images/Pasted image 20260315181011.png",
-    "Images/Pasted image 20260315215343.png",
     "Images/Pasted image 20260321132317.png",
     "Images/Pasted image 20260321132756.png",
     "Images/Pasted image 20260321132858.png",
-    "Images/Pasted image 20260321133114.png",
     "Images/Pasted image 20260321134352.png",
-    "Images/Pasted image 20260321134829.png",
-    "Images/Pasted image 20260321134853.png",
     "NPCs/Yagra.md",
-    "General/Waterdeep Dragon Heist.md",
-    "NPCs/Floon Blagmar.md",
     "Monsters",
-    "General/dato.md",
-    "NPCs/Volothamp Geddarm.md",
-    "Monsters/Stirges.md",
-    "Monsters/Trold.md",
-    "NPCs/Durnan.md",
-    "NPCs/Mirt.md",
-    "NPCs/Horse.md",
-    "NPCs/Mhaere.md",
-    "Recap/10. marts 2026.md",
-    "Factions/Zhentarim.md",
-    "NPCs/The Masked Lords.md",
-    "Players/Sszariel Thongolir.md",
-    "Players/Normi Elderling.md",
     "Quests, Rumours and hooks",
     "Untitled.canvas",
     "Recap",
@@ -231,7 +232,6 @@
     "General",
     "NPCs",
     "Images",
-    "Locations",
     "Untitled 1.canvas"
   ]
 }
