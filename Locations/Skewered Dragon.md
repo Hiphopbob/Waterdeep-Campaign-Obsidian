@@ -1,0 +1,1 @@
+Tavern(?) som ligger i [[Dock Ward]]. Første ledetråd vi fik af [[Volothamp Geddarm]] til at finde [[Floon Blagmaar]]. 

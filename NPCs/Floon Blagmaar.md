@@ -3,6 +3,6 @@ Første gang omtalt af [[Volothamp Geddarm]], og nøgleperson i [[Quest - Find a
 Volothamp beskriver ham som følgende:
 Menneske, mand
 En god drikke kammerat
-Nem at genkende
+Nem at genkende, rødt hår
 Har en enhjørningshoved talisman
-Gift med [[Salika Blagmar]]
+Gift med [[Salika Blagmaar]]
