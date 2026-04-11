@@ -1,0 +1,1 @@
+Sol / "[[Øjet]]" symbol

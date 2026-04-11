@@ -1,0 +1,1 @@
+En af dem fra [[Shard Shunners]]. Vi har kun mødt en af dem og det er ikke nødvendigvis ham der hedder Roscoe.

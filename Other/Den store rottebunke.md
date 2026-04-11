@@ -1,0 +1,1 @@
+Findes i kloakken ikke langt fra kloakdækslet ved [[Honorable knight statue]]. Ifølge en elver som befandt sig ved rottebunken er det tilholdsstedet for [[Rottekongen]]. Elveren flygtede efter [[Sszariel Thongolir]] tegnede [[Øjet]] på væggen. 

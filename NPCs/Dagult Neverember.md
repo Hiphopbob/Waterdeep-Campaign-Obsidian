@@ -1,0 +1,1 @@
+Far til [[Ranaer Neverember]]. Tidligere [[Open Lord of Waterdeep]]. Flygtede fordi han var i bad standing. 

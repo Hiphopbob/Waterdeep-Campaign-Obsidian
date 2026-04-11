@@ -1,0 +1,1 @@
+En gruppe rottemænd. Vi havde en encounter med en af dem i [[Underfoot Burrow]]'s kælder, som flygtede. Ifølge [[Rosie]], som har [[Underfoot Burrow]], hedder en af dem [[Roscoe]] og de er 4-5 i alt (i hvert fald dem der var indkvarteret hos [[Underfoot Burrow]]. 
