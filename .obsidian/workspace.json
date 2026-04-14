@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/31. marts 2026.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31. marts 2026"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/31. marts 2026.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 31. marts 2026"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/31. marts 2026.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 31. marts 2026"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/31. marts 2026.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 31. marts 2026"
+              "title": "Outline of README"
             }
           }
         ],
@@ -185,43 +185,45 @@
   },
   "active": "d6e1a6593ab4522a",
   "lastOpenFiles": [
-    "Monsters/Gazer.md",
+    "Monsters/Ooze.md",
+    "Recap/7. april 2026.md",
+    "Groups/Cellarers' & Plumbers' Guild.md",
+    "NPCs/Snip.md",
+    "NPCs/Rosie.md",
     "Recap/31. marts 2026.md",
-    "NPCs/Gamle Martin.md",
-    "NPCs/Horse.md",
-    "Other/Øjet.md",
-    "NPCs/Rottekongen.md",
-    "NPCs/Krentz.md",
-    "Recap/24. marts 2026.md",
-    "NPCs/Ranaer Neverember.md",
+    "Groups/Xanathar.md",
+    "Zanatharr.md",
     "Recap/Recap.md",
-    "Other/Honorable knight statue.md",
-    "README.md",
-    "Locations/The Yawning Portal.md",
-    "Locations/Castle Ward.md",
-    "General/dato.md",
+    "NPCs/Korin.md",
+    "Monsters/Gazer.md",
+    "Monsters/Stirges.md",
+    "Monsters/Trold.md",
+    "NPCs/Open Lord of Waterdeep.md",
+    "NPCs/Roscoe.md",
+    "Quests, Rumours and hooks/Quest - Find and save Floon Blagmaar.md",
+    "Other/Den store rottebunke.md",
+    "NPCs/Salika Blagmaar.md",
+    "NPCs/Floon Blagmaar.md",
+    "NPCs/Dagult Neverember.md",
+    "Locations/Underfoot Burrow.md",
+    "Locations/Skewered Dragon.md",
+    "Locations/Lagerbygningen i Candle Lane.md",
+    "Items/Stone of Golorr.md",
+    "Items",
+    "Groups/Zentarim.md",
+    "Groups/Shard Shunners.md",
+    "Groups",
     "Images/Pasted image 20260321133114.png",
     "Images/Pasted image 20260321134939.png",
     "Images/Pasted image 20260321134829.png",
     "Images/Pasted image 20260315215343.png",
-    "Locations/North Ward.md",
-    "Players/Walter Dornier.md",
-    "Players/Sszariel Thongolir.md",
-    "Players/Normi Elderling.md",
-    "Players/Ilddrith Solara Margaster.md",
-    "Players/Felix Whitestone.md",
     " - Copy.gitattributes",
-    "Recap/22. marts 2026.md",
-    "Recap/17. marts 2026.md",
-    "Quests, Rumours and hooks/Quest - Find and save Floon Blagmar.md",
-    "Other/Dyp-prøven.md",
     "Images/2026-03-10.png",
     "Images/Pasted image 20260315181011.png",
     "Images/Pasted image 20260321132317.png",
     "Images/Pasted image 20260321132756.png",
     "Images/Pasted image 20260321132858.png",
     "Images/Pasted image 20260321134352.png",
-    "NPCs/Yagra.md",
     "Monsters",
     "Quests, Rumours and hooks",
     "Untitled.canvas",
@@ -230,8 +232,6 @@
     "Other",
     "Factions",
     "General",
-    "NPCs",
-    "Images",
     "Untitled 1.canvas"
   ]
 }
