@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Recap/2026-04-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-04-14"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Locations/Waterdeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Waterdeep"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Locations/Waterdeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Waterdeep"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Recap/2026-04-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2026-04-14"
             }
           }
         ],
@@ -183,17 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6e1a6593ab4522a",
+  "active": "7767aa147866070a",
   "lastOpenFiles": [
+    "Recap/2026-04-07.md",
+    "Recap/2026-04-14.md",
+    "Recap/Recap.md",
+    "Recap/2026-03-17.md",
+    "Recap/2026-03-10.md",
+    "Recap/2026-03-22.md",
+    "Recap/2026-03-24.md",
+    "Recap/2026-03-31.md",
+    "Locations/Waterdeep.md",
+    "Locations/North Ward.md",
+    "README.md",
     "Monsters/Ooze.md",
-    "Recap/7. april 2026.md",
     "Groups/Cellarers' & Plumbers' Guild.md",
     "NPCs/Snip.md",
     "NPCs/Rosie.md",
-    "Recap/31. marts 2026.md",
     "Groups/Xanathar.md",
     "Zanatharr.md",
-    "Recap/Recap.md",
     "NPCs/Korin.md",
     "Monsters/Gazer.md",
     "Monsters/Stirges.md",
@@ -203,15 +211,7 @@
     "Quests, Rumours and hooks/Quest - Find and save Floon Blagmaar.md",
     "Other/Den store rottebunke.md",
     "NPCs/Salika Blagmaar.md",
-    "NPCs/Floon Blagmaar.md",
-    "NPCs/Dagult Neverember.md",
-    "Locations/Underfoot Burrow.md",
-    "Locations/Skewered Dragon.md",
-    "Locations/Lagerbygningen i Candle Lane.md",
-    "Items/Stone of Golorr.md",
     "Items",
-    "Groups/Zentarim.md",
-    "Groups/Shard Shunners.md",
     "Groups",
     "Images/Pasted image 20260321133114.png",
     "Images/Pasted image 20260321134939.png",

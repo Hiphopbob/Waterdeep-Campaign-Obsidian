@@ -2,14 +2,10 @@ Recaps fra [[Waterdeep Dragon Heist]].
 
 # Kapitel 1 - Heltene mødes 
 
-[[10. marts 2026]]
-
-[[17. marts 2026]]
-
-[[22. marts 2026]] (physical session)
-
-[[24. marts 2026]]
-
-[[31. marts 2026]]
-
-[[7. april 2026]]
+[[2026-03-10]]
+[[2026-03-17]]
+[[2026-03-22]] (physical session)
+[[2026-03-24]]
+[[2026-03-31]]
+[[2026-04-07]]
+[[2026-04-14]]
