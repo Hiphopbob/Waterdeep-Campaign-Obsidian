@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/2026-04-14.md",
+                "file": "To-do list (Trollskull Manor).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "To-do list (Trollskull Manor)"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/2026-04-14.md",
+                "file": "To-do list (Trollskull Manor).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-14"
+              "title": "Outline of To-do list (Trollskull Manor)"
             }
           }
         ],
@@ -185,9 +185,27 @@
   },
   "active": "7767aa147866070a",
   "lastOpenFiles": [
-    "Recap/2026-04-07.md",
-    "Recap/2026-04-14.md",
+    "Locations/Trollskull Manor.md",
+    "To-do list (Trollskull Manor).md",
+    "Recap/2026-04-21.md",
+    "SK - - - -.md",
     "Recap/Recap.md",
+    "Images/trollskull manor basement 1.png",
+    "Images/trollskull manor tower.png",
+    "Images/trollskull manor 3rd floor.png",
+    "Images/trollskull manor 2nd floor.png",
+    "Images/trollskull manor 1st floor.png",
+    "Images/trollskull manor basement.png",
+    "Images/trollskull manor ground floor.png",
+    "General/dato.md",
+    "Documents/Waterdeep enchiridion.pdf",
+    "Documents/Waterdeep directory.pdf",
+    "Documents/Waterdeep Map.webp",
+    "Documents/Laws of Waterdeep.png",
+    "Documents/Faerun calendar.pdf",
+    "Documents",
+    "Recap/2026-04-14.md",
+    "Recap/2026-04-07.md",
     "Recap/2026-03-17.md",
     "Recap/2026-03-10.md",
     "Recap/2026-03-22.md",
@@ -206,32 +224,14 @@
     "Monsters/Gazer.md",
     "Monsters/Stirges.md",
     "Monsters/Trold.md",
-    "NPCs/Open Lord of Waterdeep.md",
-    "NPCs/Roscoe.md",
-    "Quests, Rumours and hooks/Quest - Find and save Floon Blagmaar.md",
-    "Other/Den store rottebunke.md",
-    "NPCs/Salika Blagmaar.md",
     "Items",
     "Groups",
     "Images/Pasted image 20260321133114.png",
-    "Images/Pasted image 20260321134939.png",
-    "Images/Pasted image 20260321134829.png",
-    "Images/Pasted image 20260315215343.png",
     " - Copy.gitattributes",
-    "Images/2026-03-10.png",
-    "Images/Pasted image 20260315181011.png",
-    "Images/Pasted image 20260321132317.png",
-    "Images/Pasted image 20260321132756.png",
-    "Images/Pasted image 20260321132858.png",
-    "Images/Pasted image 20260321134352.png",
     "Monsters",
     "Quests, Rumours and hooks",
     "Untitled.canvas",
     "Recap",
-    "10",
-    "Other",
-    "Factions",
-    "General",
     "Untitled 1.canvas"
   ]
 }
