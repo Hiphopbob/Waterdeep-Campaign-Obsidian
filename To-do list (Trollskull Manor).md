@@ -12,6 +12,8 @@ Opgaver for at gøre hus beboeligt
 - Frø-bestand i badekar
 - Flagermus i tårnet
 - Gulv der knirker
+- Gennemgå tilstandsrapport
+- 
 
 
 
