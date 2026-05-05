@@ -1,0 +1,1 @@
+The Bent Nail er en woodwork shop, hvor man kan finde pænt ornamenterede våben og fine møbler. Butikken ligger i [[Trollskull Alley]], kun et stenkast fra [[Trollskull Manor]].

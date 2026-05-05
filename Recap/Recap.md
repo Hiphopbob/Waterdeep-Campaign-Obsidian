@@ -10,3 +10,6 @@ Recaps fra [[Waterdeep Dragon Heist]].
 [[2026-04-07]]
 [[2026-04-14]]
 [[2026-04-21]]
+
+Kapitel 2 - Hjem, kære hjem
+[[2026-04-28]]
