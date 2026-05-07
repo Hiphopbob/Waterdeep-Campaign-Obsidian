@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/2026-04-28.md",
+                "file": "Locations/Waterdeep map (leaflet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-28"
+              "title": "Waterdeep map (leaflet)"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/2026-04-28.md",
+                "file": "Locations/Waterdeep map (leaflet).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-28"
+              "title": "Outline of Waterdeep map (leaflet)"
             }
           }
         ],
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,25 +181,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "d6e1a6593ab4522a",
   "lastOpenFiles": [
-    "NPCs/Kelvar Dusk.md",
+    "Images/Pasted image 20260507212859.png",
+    "Locations/Waterdeep.md",
+    "Locations/Waterdeep map (leaflet).md",
+    "Locations/Trollskull Manor.md",
+    "Note.md",
+    "Documents/Waterdeep Map (edited).jpg",
+    "Documents/Waterdeep Map.webp",
+    "Documents/Waterdeep enchiridion.pdf",
+    "Documents/Waterdeep directory.pdf",
+    "Documents/Laws of Waterdeep.png",
+    "Documents/Faerun calendar.pdf",
+    "NPCs/Mirt.md",
     "Recap/2026-04-28.md",
+    "Recap/2026-04-21.md",
+    "NPCs/Kelvar Dusk.md",
     "NPCs/Istrid Horn.md",
     "Groups/Carpenters, Roofers & Plasterers Guild.md",
     "Recap/2026-03-22.md",
     "Locations/The Bent Nail.md",
     "Locations/Trollskull Alley.md",
-    "Recap/2026-04-21.md",
     "Locations/House of Stone.md",
     "Recap/Recap.md",
     "Quests, Rumours and hooks/To-do list (Trollskull Manor).md",
     "Recap/2026-03-24.md",
     "Recap/2026-03-31.md",
-    "Locations/Trollskull Manor.md",
     "NPCs/SK - - - -.md",
     "Images/trollskull manor basement 1.png",
     "Images/trollskull manor tower.png",
@@ -208,25 +221,14 @@
     "Images/trollskull manor basement.png",
     "Images/trollskull manor ground floor.png",
     "General/dato.md",
-    "Documents/Waterdeep enchiridion.pdf",
-    "Documents/Waterdeep directory.pdf",
-    "Documents/Waterdeep Map.webp",
-    "Documents/Laws of Waterdeep.png",
-    "Documents/Faerun calendar.pdf",
     "Documents",
     "Recap/2026-04-14.md",
     "Recap/2026-04-07.md",
     "Recap/2026-03-17.md",
     "Recap/2026-03-10.md",
-    "Locations/Waterdeep.md",
     "Locations/North Ward.md",
-    "README.md",
-    "Monsters/Ooze.md",
-    "Groups/Cellarers' & Plumbers' Guild.md",
-    "NPCs/Snip.md",
     "Items",
     "Groups",
-    "Images/Pasted image 20260321133114.png",
     " - Copy.gitattributes",
     "Monsters",
     "Quests, Rumours and hooks",
