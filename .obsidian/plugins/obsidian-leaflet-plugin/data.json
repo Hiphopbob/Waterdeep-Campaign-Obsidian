@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1778616815322,
+      "lastAccessed": 1778617520151,
       "markers": [
         {
           "id": "ID_29fa783bdb1a",
@@ -84,6 +84,40 @@
           "command": false,
           "percent": null,
           "description": "Stalden med \"Maxine\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb8bdb5beaca",
+          "type": "default",
+          "loc": [
+            -7.0927886962890625,
+            3.8466796875
+          ],
+          "link": "Skewered Dragon",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Her omkring ish",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29cb48fbca99",
+          "type": "default",
+          "loc": [
+            -6.5371246337890625,
+            3.8076171875
+          ],
+          "link": "Lagerbygningen i Candle Lane",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
