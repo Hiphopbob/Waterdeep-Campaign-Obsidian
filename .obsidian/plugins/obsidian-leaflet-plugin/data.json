@@ -1,8 +1,83 @@
 {
   "mapMarkers": [
     {
+      "id": "leaflet-map2",
+      "lastAccessed": 1781460526609,
+      "markers": [
+        {
+          "id": "ID_594a2b4aa808",
+          "type": "default",
+          "loc": [
+            -0.5660644471645355,
+            0.1351562738418579
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gylden dør",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1b38baf959",
+          "type": "default",
+          "loc": [
+            -0.8168457448482513,
+            1.2125000953674316
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tomt rum(?)\n\nÅbent i 1 minut, derefter låst i 10 minutter. ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7bca98fa3b",
+          "type": "default",
+          "loc": [
+            -1.2051269710063934,
+            1.0417969226837158
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "(Ukendt)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b7a4b2b28ea",
+          "type": "default",
+          "loc": [
+            -0.2844238579273224,
+            0.5617187023162842
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Jernport",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Blue Alley.md"
+      ]
+    },
+    {
       "id": "leaflet-map",
-      "lastAccessed": 1779811547817,
+      "lastAccessed": 1781460846279,
       "markers": [
         {
           "id": "ID_29fa783bdb1a",
@@ -126,7 +201,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Locations/Waterdeep map (leaflet).md"
+        "Locations/Waterdeep map (leaflet).md",
+        "Locations/Blue Alley.md"
       ]
     }
   ],
