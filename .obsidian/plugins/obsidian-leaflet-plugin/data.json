@@ -1,0 +1,283 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map2",
+      "lastAccessed": 1781460526609,
+      "markers": [
+        {
+          "id": "ID_594a2b4aa808",
+          "type": "default",
+          "loc": [
+            -0.5660644471645355,
+            0.1351562738418579
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Gylden dør",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b1b38baf959",
+          "type": "default",
+          "loc": [
+            -0.8168457448482513,
+            1.2125000953674316
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tomt rum(?)\n\nÅbent i 1 minut, derefter låst i 10 minutter. ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7bca98fa3b",
+          "type": "default",
+          "loc": [
+            -1.2051269710063934,
+            1.0417969226837158
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "(Ukendt)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b7a4b2b28ea",
+          "type": "default",
+          "loc": [
+            -0.2844238579273224,
+            0.5617187023162842
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Jernport",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Blue Alley.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1781460846279,
+      "markers": [
+        {
+          "id": "ID_29fa783bdb1a",
+          "type": "default",
+          "loc": [
+            -2.9593994170427322,
+            3.8037109375
+          ],
+          "link": "Trollskull Manor",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Trollskull Manor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b491a188b18",
+          "type": "default",
+          "loc": [
+            -6.0230865478515625,
+            3.416015625
+          ],
+          "link": "The Yawning Portal",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Yawning Portal",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5be879fbc839",
+          "type": "default",
+          "loc": [
+            -3.856719970703125,
+            3.40234375
+          ],
+          "link": "Olmhazan’s Jewels",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Olmhazan’s Jewels",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c92968dbc8b9",
+          "type": "default",
+          "loc": [
+            -3.762969970703125,
+            3.087890625
+          ],
+          "link": "Halazar’s Fine Gems",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Halazar’s Fine Gems",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3809cb2b390a",
+          "type": "default",
+          "loc": [
+            -6.8482818603515625,
+            4.08984375
+          ],
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Stalden med \"Maxine\"",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb8bdb5beaca",
+          "type": "default",
+          "loc": [
+            -7.0927886962890625,
+            3.8466796875
+          ],
+          "link": "Skewered Dragon",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Her omkring ish",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29cb48fbca99",
+          "type": "default",
+          "loc": [
+            -6.5371246337890625,
+            3.8076171875
+          ],
+          "link": "Lagerbygningen i Candle Lane",
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Waterdeep map (leaflet).md",
+        "Locations/Blue Alley.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 6,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Waterdeep Map (edited).jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Waterdeep Map (edited).jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

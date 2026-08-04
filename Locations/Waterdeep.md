@@ -14,3 +14,5 @@ Waterdeep er delt op i mindre kvarterer.
 [[Dock Ward]] lokale fiskere og sømænd fra fjerne steder mødes her i en af de utallige værtshuse og udveksler historier, mens skibene lastes, repareres eller ny besætning sættes i stand. 
 [[South Ward]], de rejsende holder til her, og man finder karavaner, omrejsende circus, folk der skal ud på eventyr, eller dem der skal hvile sig efter at være kommet tilbage fra ét. 
 ![[Pasted image 20260315181011.png]]
+
+
