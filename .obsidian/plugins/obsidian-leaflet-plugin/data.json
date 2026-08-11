@@ -1,26 +1,84 @@
 {
   "mapMarkers": [
     {
-      "id": "leaflet-map",
-      "lastAccessed": 1785871587572,
+      "id": "leaflet-map2",
+      "lastAccessed": 1781460526609,
       "markers": [
         {
-          "id": "ID_29fa783bdb1a",
+          "id": "ID_594a2b4aa808",
           "type": "default",
           "loc": [
-            -2.9593994170427322,
-            3.8037109375
+            -0.5660644471645355,
+            0.1351562738418579
           ],
-          "link": "Trollskull Manor",
-          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Trollskull Manor",
+          "description": "Gylden dør",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
+        {
+          "id": "ID_9b1b38baf959",
+          "type": "default",
+          "loc": [
+            -0.8168457448482513,
+            1.2125000953674316
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tomt rum(?)\n\nÅbent i 1 minut, derefter låst i 10 minutter. ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a7bca98fa3b",
+          "type": "default",
+          "loc": [
+            -1.2051269710063934,
+            1.0417969226837158
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "(Ukendt)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b7a4b2b28ea",
+          "type": "default",
+          "loc": [
+            -0.2844238579273224,
+            0.5617187023162842
+          ],
+          "layer": "%5B%5BScreenshot%202026-06-09%20220228.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Jernport",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Blue Alley.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1786467154749,
+      "markers": [
         {
           "id": "ID_2b491a188b18",
           "type": "default",
@@ -123,47 +181,13 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_3a39d8ba1828",
+          "id": "ID_78495a4839a9",
           "type": "default",
           "loc": [
-            -6.3398590087890625,
-            3.0263671875
+            -2.960119605064392,
+            3.8095703125
           ],
-          "link": "Mord",
-          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba98a8d9f90b",
-          "type": "default",
-          "loc": [
-            -6.3916168212890625,
-            3.1640625
-          ],
-          "link": "Mord",
-          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d83929a8c84a",
-          "type": "default",
-          "loc": [
-            -6.6093902587890625,
-            3.1533203125
-          ],
-          "link": "Mord",
+          "link": "Trollskull Manor",
           "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -177,7 +201,83 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Locations/Waterdeep map (leaflet).md"
+        "Locations/Waterdeep map (leaflet).md",
+        "Mord.md"
+      ]
+    },
+    {
+      "id": "mord-map",
+      "lastAccessed": 1786469175791,
+      "markers": [
+        {
+          "id": "ID_ea2b6b89381a",
+          "type": "default",
+          "loc": [
+            -6.347094729542732,
+            3.0244140625
+          ],
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "1. mord, Elf",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49c978581b8b",
+          "type": "default",
+          "loc": [
+            -6.601977542042732,
+            3.1337890625
+          ],
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "3. mord, Elf",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a998989d8b9",
+          "type": "default",
+          "loc": [
+            -6.405688479542732,
+            3.2509765625
+          ],
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "2. mord, Half-elf",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_595859b90b09",
+          "type": "default",
+          "loc": [
+            -6.0517578125,
+            2.916796922683716
+          ],
+          "layer": "%5B%5BWaterdeep%20Map%20(edited).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Normi blev angrebet af gunslinger",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Quests, Rumours and hooks/Mord i Dock Ward.md"
       ]
     }
   ],
